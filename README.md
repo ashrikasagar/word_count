@@ -1,5 +1,9 @@
 # word_count
 search a word count
+
+
+
+
 #include <stdio.h>
 
 #include <string.h>
